@@ -33,11 +33,11 @@ int main() {
 	// 	cout << "false" << endl;
 	// }
 
-	// if(isEven(5)) {
-	// 	cout << "true" << endl;
-	// } else {
-	// 	cout << "false" << endl;
-	// }
+	if(isEven(5)) {
+		cout << "true" << endl;
+	} else {
+		cout << "false" << endl;
+	}
 
 
 	isEven(5) ? cout << "true" << endl :
